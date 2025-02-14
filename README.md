@@ -1,4 +1,4 @@
-# Sample-Efficient and Interpretable Bayesian Model-Based Reinforcement Learning
+# Sample-Efficient Bayesian Model-Based Reinforcement Learning Using DBN and PPL Models
 
 ## Overview
 This project explores the application of Bayesian model-based reinforcement learning (RL) in high-stakes environments, particularly in healthcare decision-making for sepsis treatment. The research focuses on using Dynamic Bayesian Networks (DBNs) and Probabilistic Programming Languages (PPLs) to define highly taileored and structured models that approximate the simulation MDP to improve sample efficiency and interpretability compared to model-free RL approaches.
