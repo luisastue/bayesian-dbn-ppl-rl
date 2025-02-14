@@ -1,0 +1,23 @@
+# Ignore __pycache__ and Python bytecode files
+__pycache__/
+*.py[cod]
+*.so
+
+# Ignore MacOS system files
+.DS_Store
+
+# Setuptools / Python egg files
+*.egg
+*.egg-info/
+dist/
+build/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Test output files
+coverage/
+.tox/
+.nox/
+*.cover
+*.py,cover
