@@ -1,5 +1,7 @@
 # Sample-Efficient Bayesian Model-Based Reinforcement Learning Using DBN and PPL Models
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14872501.svg)](https://doi.org/10.5281/zenodo.14872501)
+
 ## Overview
 This project explores the application of Bayesian model-based reinforcement learning (RL) in high-stakes environments, particularly in healthcare decision-making for sepsis treatment. The research focuses on using Dynamic Bayesian Networks (DBNs) and Probabilistic Programming Languages (PPLs) to define highly taileored and structured models that approximate the simulation MDP to improve sample efficiency and interpretability compared to model-free RL approaches.
 
